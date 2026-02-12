@@ -19,7 +19,7 @@ class MyWidget extends StatelessWidget {
           child: Column(
             children: [
               Container(
-              color: const Color.fromARGB(255, 195, 92, 74),
+              color: const Color.fromARGB(255, 250, 149, 131),
               width: 150.0,
               height: 150.0,
               alignment: Alignment.center,
